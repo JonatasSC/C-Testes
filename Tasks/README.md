@@ -1,1 +1,1 @@
-Esses são alguns exemplos bem simples de aplicações desenvolvidas em C++ apartir de atividades solicitadas pelo professor [Luis Pacheco(https://www.youtube.com/c/EducaTechOficial)] da materia de algoritimos e estruturas de dados.
+Esses são alguns exemplos bem simples de aplicações desenvolvidas em C++ apartir de atividades solicitadas pelo professor [(Luis Pacheco) https://www.youtube.com/c/EducaTechOficial] da materia de algoritimos e estruturas de dados.
