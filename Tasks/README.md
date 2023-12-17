@@ -1,1 +1,1 @@
-Esses são alguns exemplos bem simples de aplicações desenvolvidas em C++ apartir de atividades solicitadas pelo professor [Luis Pacheco](https://www.youtube.com/c/EducaTechOficial) da materia de algoritimos e estruturas de dados.
+Esses são alguns exemplos bem simples de soluções desenvolvidas em C++ utilizando alguns conceitos basicos como o de Ponteiros, Alocamento de memoria, listas ligadas entre outros. apartir de atividades solicitadas pelo professor [Luis Pacheco](https://www.youtube.com/c/EducaTechOficial) da materia de algoritimos e estruturas de dados.
